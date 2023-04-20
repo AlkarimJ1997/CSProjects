@@ -1,0 +1,15 @@
+C:\CSProjects\AdvancedFunctions\bin\Debug\net7.0\AdvancedFunctions.exe
+C:\CSProjects\AdvancedFunctions\bin\Debug\net7.0\AdvancedFunctions.deps.json
+C:\CSProjects\AdvancedFunctions\bin\Debug\net7.0\AdvancedFunctions.runtimeconfig.json
+C:\CSProjects\AdvancedFunctions\bin\Debug\net7.0\AdvancedFunctions.dll
+C:\CSProjects\AdvancedFunctions\bin\Debug\net7.0\AdvancedFunctions.pdb
+C:\CSProjects\AdvancedFunctions\obj\Debug\net7.0\AdvancedFunctions.csproj.AssemblyReference.cache
+C:\CSProjects\AdvancedFunctions\obj\Debug\net7.0\AdvancedFunctions.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSProjects\AdvancedFunctions\obj\Debug\net7.0\AdvancedFunctions.AssemblyInfoInputs.cache
+C:\CSProjects\AdvancedFunctions\obj\Debug\net7.0\AdvancedFunctions.AssemblyInfo.cs
+C:\CSProjects\AdvancedFunctions\obj\Debug\net7.0\AdvancedFunctions.csproj.CoreCompileInputs.cache
+C:\CSProjects\AdvancedFunctions\obj\Debug\net7.0\AdvancedFunctions.dll
+C:\CSProjects\AdvancedFunctions\obj\Debug\net7.0\refint\AdvancedFunctions.dll
+C:\CSProjects\AdvancedFunctions\obj\Debug\net7.0\AdvancedFunctions.pdb
+C:\CSProjects\AdvancedFunctions\obj\Debug\net7.0\AdvancedFunctions.genruntimeconfig.cache
+C:\CSProjects\AdvancedFunctions\obj\Debug\net7.0\ref\AdvancedFunctions.dll

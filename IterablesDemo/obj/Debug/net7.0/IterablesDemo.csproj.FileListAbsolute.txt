@@ -1,0 +1,15 @@
+C:\CSProjects\IterablesDemo\bin\Debug\net7.0\IterablesDemo.exe
+C:\CSProjects\IterablesDemo\bin\Debug\net7.0\IterablesDemo.deps.json
+C:\CSProjects\IterablesDemo\bin\Debug\net7.0\IterablesDemo.runtimeconfig.json
+C:\CSProjects\IterablesDemo\bin\Debug\net7.0\IterablesDemo.dll
+C:\CSProjects\IterablesDemo\bin\Debug\net7.0\IterablesDemo.pdb
+C:\CSProjects\IterablesDemo\obj\Debug\net7.0\IterablesDemo.csproj.AssemblyReference.cache
+C:\CSProjects\IterablesDemo\obj\Debug\net7.0\IterablesDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSProjects\IterablesDemo\obj\Debug\net7.0\IterablesDemo.AssemblyInfoInputs.cache
+C:\CSProjects\IterablesDemo\obj\Debug\net7.0\IterablesDemo.AssemblyInfo.cs
+C:\CSProjects\IterablesDemo\obj\Debug\net7.0\IterablesDemo.csproj.CoreCompileInputs.cache
+C:\CSProjects\IterablesDemo\obj\Debug\net7.0\IterablesDemo.dll
+C:\CSProjects\IterablesDemo\obj\Debug\net7.0\refint\IterablesDemo.dll
+C:\CSProjects\IterablesDemo\obj\Debug\net7.0\IterablesDemo.pdb
+C:\CSProjects\IterablesDemo\obj\Debug\net7.0\IterablesDemo.genruntimeconfig.cache
+C:\CSProjects\IterablesDemo\obj\Debug\net7.0\ref\IterablesDemo.dll

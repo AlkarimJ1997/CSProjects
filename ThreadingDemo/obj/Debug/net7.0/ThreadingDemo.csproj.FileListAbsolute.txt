@@ -1,0 +1,15 @@
+C:\CSProjects\ThreadingDemo\bin\Debug\net7.0\ThreadingDemo.exe
+C:\CSProjects\ThreadingDemo\bin\Debug\net7.0\ThreadingDemo.deps.json
+C:\CSProjects\ThreadingDemo\bin\Debug\net7.0\ThreadingDemo.runtimeconfig.json
+C:\CSProjects\ThreadingDemo\bin\Debug\net7.0\ThreadingDemo.dll
+C:\CSProjects\ThreadingDemo\bin\Debug\net7.0\ThreadingDemo.pdb
+C:\CSProjects\ThreadingDemo\obj\Debug\net7.0\ThreadingDemo.csproj.AssemblyReference.cache
+C:\CSProjects\ThreadingDemo\obj\Debug\net7.0\ThreadingDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSProjects\ThreadingDemo\obj\Debug\net7.0\ThreadingDemo.AssemblyInfoInputs.cache
+C:\CSProjects\ThreadingDemo\obj\Debug\net7.0\ThreadingDemo.AssemblyInfo.cs
+C:\CSProjects\ThreadingDemo\obj\Debug\net7.0\ThreadingDemo.csproj.CoreCompileInputs.cache
+C:\CSProjects\ThreadingDemo\obj\Debug\net7.0\ThreadingDemo.dll
+C:\CSProjects\ThreadingDemo\obj\Debug\net7.0\refint\ThreadingDemo.dll
+C:\CSProjects\ThreadingDemo\obj\Debug\net7.0\ThreadingDemo.pdb
+C:\CSProjects\ThreadingDemo\obj\Debug\net7.0\ThreadingDemo.genruntimeconfig.cache
+C:\CSProjects\ThreadingDemo\obj\Debug\net7.0\ref\ThreadingDemo.dll
